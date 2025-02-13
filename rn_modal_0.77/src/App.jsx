@@ -50,7 +50,7 @@ const App = () => {
 
 
     <View style={{ justifyContent: 'center',
-      alignItems: 'center',flex:1,height:'900px'}}>
+      alignItems: 'center',flex:1}}>
       {/* <View style={styles.test}>
       <Text>I am centered</Text>
   </View> */}
