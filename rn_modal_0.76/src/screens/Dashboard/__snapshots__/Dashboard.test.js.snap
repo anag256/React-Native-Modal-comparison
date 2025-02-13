@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard screen given default props should render correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    testID="DashboardNavigationButton"
+  >
+    <View
+      style={
+        [
+          {
+            "alignSelf": "center",
+            "display": "flex",
+            "height": 812,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 750,
+          },
+          {
+            "backgroundColor": "#007d79",
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "fontSize": 24,
+              "fontWeight": "bold",
+              "textAlign": "center",
+            },
+            {
+              "color": "#FFF",
+            },
+            undefined,
+          ]
+        }
+      >
+        Dashboard - tap to navigate
+      </Text>
+    </View>
+  </View>
+</View>
+`;

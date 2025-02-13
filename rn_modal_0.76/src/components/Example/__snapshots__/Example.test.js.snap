@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Example component given default props should render correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "alignSelf": "center",
+        "display": "flex",
+        "height": 812,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 750,
+      },
+      {
+        "backgroundColor": "#0f62fe",
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 24,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        },
+        {
+          "color": "#FFF",
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
